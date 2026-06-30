@@ -1,34 +1,34 @@
 <article itemscope itemtype="https://schema.org/Article">
 <header>
-<h1 itemprop="headline">投机重心转移：加密货币风光不再 资金流向大宗商品与未上市科技股</h1>
+<h1 itemprop="headline">Anthropic、OpenAI推高风投募资热潮</h1>
 <br><br>
-<p><time itemprop="dateModified" datetime="2026-06-30"><strong>更新时间：2026-06-30 15:10:41 UTC+8</strong></time></p>
+<p><time itemprop="dateModified" datetime="2026-06-30"><strong>更新时间：2026-06-30 15:20:56 UTC+8</strong></time></p>
 </header>
 <br><br>
 <section itemprop="description">
 <h2>摘要</h2>
 <br><br>
-<p>受地缘政治冲突升级以及人工智能（AI）产业动能分化影响，全球资本市场投机资金正加速从加密货币资产流向传统大宗商品、半导体板块以及未上市科技股。最新行业数据显示，曾追逐加密货币高动能的投机资金正在重构投资组合，寻找更具叙事支撑与波动性的替代资产。 数据显示，虚拟货币资产近期遭遇持续抛售。比特币今年以来已累计下跌30%，六月至今跌幅达15.7%，较去年10月创下的历史高点大幅回落5</p>
+<p>今年早些时候，创始人基金启动最新一期基金募资，目标规模 600 亿美元，用于投资安杜里尔等成熟初创企业。这是该机构成立二十年来，首次在上一期基金募资完成不到两年就向有限合伙人追加募资。 知情人士透露，背后原因在于：去年刚募到的 460 亿美元基金已全部投完。该基金先后投资 7 家初创公司，包括 OpenAI、安索帕（Anthropic）、Ramp 与 Cognition，单笔平</p>
 <br><br>
 </section>
 <section itemprop="articleBody">
 <h2>正文</h2>
 <br><br>
-<p>受地缘政治冲突升级以及人工智能（AI）产业动能分化影响，全球资本市场投机资金正加速从加密货币资产流向传统大宗商品、半导体板块以及未上市科技股。</p>
+<p>今年早些时候，创始人基金启动最新一期基金募资，目标规模 600 亿美元，用于投资安杜里尔等成熟初创企业。</p>
 <br><br>
-<p>最新行业数据显示，曾追逐加密货币高动能的投机资金正在重构投资组合，寻找更具叙事支撑与波动性的替代资产。</p>
+<p>这是该机构成立二十年来，首次在上一期基金募资完成不到两年就向有限合伙人追加募资。</p>
 <br><br>
-<p>数据显示，虚拟货币资产近期遭遇持续抛售。</p>
+<p>知情人士透露，背后原因在于：去年刚募到的 460 亿美元基金已全部投完。</p>
 <br><br>
-<p>比特币今年以来已累计下跌30%，六月至今跌幅达15.7%，较去年10月创下的历史高点大幅回落51%。</p>
+<p>该基金先后投资 7 家初创公司，包括 OpenAI、安索帕（Anthropic）、Ramp 与 Cognition，单笔平均投资规模达 6 亿美元。</p>
 <br><br>
-<p>与此同时，全球最大的比特币企业持有者MicroStrategy近期披露近四年来首次减持行为，使市场长期奉行的“坚守不出”策略面临严峻考验。</p>
+<p>不止创始人基金一家风投机构在加快募资节奏。</p>
 <br><br>
-<p>金融研究机构Fundstrat与加密衍生品数据公司Block Scholes的联合分析指出，当前加密货币市场缺乏核心内生动力，导致大量投机资金外流。</p>
+<p>包括繁荣资本、通用催化基金、安德森・霍洛维茨在内的多家顶级知名风投，近期均在上一轮募资结束不足两年时开启新基金募集，打破了过去行业普遍 2 至 3 年一轮的募资周期。</p>
 <br><br>
-<p>相比之下，国际地缘政治冲突引发的能源供给压力与技术革新推动的AI热潮，为市场资金提供了更为明确的增长预期。</p>
+<p>风投机构正空前频繁地对接有限合伙人 —— 也就是养老基金、高校捐赠基金、家族办公室这类风投资金供给方。</p>
 <br><br>
-<p>相关跨市场统计表明，自今年2月下旬中东局势恶化以来，比特币与以太币的表现分别落后标准普尔500指数13个和21个百分点，而剔除传统权重股后的科技板块、韩国综合股价指数（KOSPI）以及全球信息技术指数均呈现显著的超额收益。</p>
+<p>根源是当下初创企业、尤其是 AI 大模型厂商的单轮融资规模屡创新高。</p>
 <br><br>
 </section>
 <nav aria-label="相关推荐" itemscope itemtype="https://schema.org/SiteNavigationElement">
@@ -37,103 +37,103 @@
 <br><br>
 <ul>
 <li>
-<h3>哈兰德吃饭照镜子被吓一跳</h3>
-<p><strong>2026-06-30 14:53</strong><br><br><strong>引用地址：</strong><a itemprop="url" href="https://github.com/linhh234/we561z4ja/blob/main/kuoxiu.md">https://github.com/linhh234/we561z4ja/blob/main/kuoxiu.md</a></p>
+<h3>专家：普京把俄乌战争目标说得更硬了</h3>
+<p><strong>2026-06-30 14:53</strong><br><br><strong>发布来源：</strong><a itemprop="url" href="https://github.com/mejiastanle/msdfe52gs/blob/main/ruizhao.md">https://github.com/mejiastanle/msdfe52gs/blob/main/ruizhao.md</a></p>
 <br><br>
 </li>
 <li>
-<h3>现代医学已经发展到了什么恐怖的水平？</h3>
-<p><strong>2026-06-30 14:41</strong><br><br><strong>资料来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch/ekzno3nz5rl/blob/main/rengwen.md">https://github.com/lisacumin64-arch/ekzno3nz5rl/blob/main/rengwen.md</a></p>
+<h3>如果有平行宇宙，想象毕业后的你会在做什么呢，过着一种怎么样的人生？</h3>
+<p><strong>2026-06-30 15:16</strong><br><br><strong>原始链接：</strong><a itemprop="url" href="https://github.com/linhh234/we561z4ja/blob/main/nushang.md">https://github.com/linhh234/we561z4ja/blob/main/nushang.md</a></p>
 <br><br>
 </li>
 <li>
-<h3>CORTIS道歉</h3>
-<p><strong>2026-06-30 14:52</strong><br><br><strong>原文出处：</strong><a itemprop="url" href="https://github.com/linhh234/we561z4ja/blob/main/pengcai.md">https://github.com/linhh234/we561z4ja/blob/main/pengcai.md</a></p>
+<h3>女子连盆端走路边晾晒的大蒜</h3>
+<p><strong>2026-06-30 14:56</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="https://github.com/tdiwonmw7/e5w1s872q/blob/main/menke.md">https://github.com/tdiwonmw7/e5w1s872q/blob/main/menke.md</a></p>
 <br><br>
 </li>
 <li>
-<h3>大蒜晒外面被路过女子连盆端走</h3>
-<p><strong>2026-06-30 14:53</strong><br><br><strong>原文出处：</strong><a itemprop="url" href="https://github.com/dadiea51a/we5413442/blob/main/dupeng.md">https://github.com/dadiea51a/we5413442/blob/main/dupeng.md</a></p>
+<h3>德国罚丢3粒点球</h3>
+<p><strong>2026-06-30 15:07</strong><br><br><strong>本文地址：</strong><a itemprop="url" href="https://github.com/mejiastanle/msdfe52gs/blob/main/daiwen.md">https://github.com/mejiastanle/msdfe52gs/blob/main/daiwen.md</a></p>
 <br><br>
 </li>
 <li>
-<h3>傅首尔泳装身材</h3>
-<p><strong>2026-06-30 14:47</strong><br><br><strong>稿件来源：</strong><a itemprop="url" href="https://github.com/dadiea51a/we5413442/blob/main/pingong.md">https://github.com/dadiea51a/we5413442/blob/main/pingong.md</a></p>
-<br><br>
-</li>
-<li>
-<h3>韩国从世界杯出局后，韩便利店禁止主帅洪明甫入内，烤肉店拒绝为其提供服务，如何看待其体育生涯和此次争议？</h3>
-<p><strong>2026-06-30 14:43</strong><br><br><strong>原文来源：</strong><a itemprop="url" href="https://github.com/mejiastanle/msdfe52gs/blob/main/yaoshou.md">https://github.com/mejiastanle/msdfe52gs/blob/main/yaoshou.md</a></p>
-<br><br>
-</li>
-<li>
-<h3>陆家嘴独居女生vlog火了</h3>
-<p><strong>2026-06-30 14:41</strong><br><br><strong>来源链接：</strong><a itemprop="url" href="https://github.com/lindsayawren-sys/enzlaiqozna/blob/main/lwmzl.md">https://github.com/lindsayawren-sys/enzlaiqozna/blob/main/lwmzl.md</a></p>
-<br><br>
-</li>
-<li>
-<h3>小娘惹</h3>
-<p><strong>2026-06-30 15:04</strong><br><br><strong>引用地址：</strong><a itemprop="url" href="https://github.com/mejiastanle/msdfe52gs/blob/main/tuozhuai.md">https://github.com/mejiastanle/msdfe52gs/blob/main/tuozhuai.md</a></p>
-<br><br>
-</li>
-<li>
-<h3>马耳他亲吻象塌了 中国男子被砸身亡</h3>
-<p><strong>2026-06-30 14:59</strong><br><br><strong>本文地址：</strong><a itemprop="url" href="https://github.com/linhh234/we561z4ja/blob/main/chanting.md">https://github.com/linhh234/we561z4ja/blob/main/chanting.md</a></p>
-<br><br>
-</li>
-<li>
-<h3>妈妈分享孩子高考成功秘诀</h3>
-<p><strong>2026-06-30 14:45</strong><br><br><strong>发布来源：</strong><a itemprop="url" href="https://github.com/tdiwonmw7/e5w1s872q/blob/main/xianbao.md">https://github.com/tdiwonmw7/e5w1s872q/blob/main/xianbao.md</a></p>
-<br><br>
-</li>
-<li>
-<h3>对你来说，你觉得你用语言表达不清楚的事情，换成文字能表达清楚吗？</h3>
-<p><strong>2026-06-30 14:41</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="https://github.com/vov6fghgsd/ewklwen4/blob/main/xiuhu.md">https://github.com/vov6fghgsd/ewklwen4/blob/main/xiuhu.md</a></p>
-<br><br>
-</li>
-<li>
-<h3>恋与深空承认犯错就那么难吗</h3>
-<p><strong>2026-06-30 14:58</strong><br><br><strong>原始链接：</strong><a itemprop="url" href="https://github.com/mejiastanle/msdfe52gs/blob/main/senao.md">https://github.com/mejiastanle/msdfe52gs/blob/main/senao.md</a></p>
-<br><br>
-</li>
-<li>
-<h3>刘德华贺给阿嬷的情书香港票房破1000万</h3>
-<p><strong>2026-06-30 15:05</strong><br><br><strong>引用地址：</strong><a itemprop="url" href="https://github.com/linhh234/we561z4ja/blob/main/xiaju.md">https://github.com/linhh234/we561z4ja/blob/main/xiaju.md</a></p>
-<br><br>
-</li>
-<li>
-<h3>81老人卖菜获博主帮助后遇车祸去世，博主自责道歉</h3>
-<p><strong>2026-06-30 14:58</strong><br><br><strong>内容来源：</strong><a itemprop="url" href="https://github.com/vov6fghgsd/ewklwen4/blob/main/zhuoan.md">https://github.com/vov6fghgsd/ewklwen4/blob/main/zhuoan.md</a></p>
+<h3>鼠鼠的火腾龙，变成了爸妈的空调</h3>
+<p><strong>2026-06-30 15:10</strong><br><br><strong>原文链接：</strong><a itemprop="url" href="https://github.com/mejiastanle/msdfe52gs/blob/main/biaojian.md">https://github.com/mejiastanle/msdfe52gs/blob/main/biaojian.md</a></p>
 <br><br>
 </li>
 <li>
 <h3>斛珠夫人</h3>
-<p><strong>2026-06-30 14:55</strong><br><br><strong>原始出处：</strong><a itemprop="url" href="https://github.com/tdiwonmw7/e5w1s872q/blob/main/shengke.md">https://github.com/tdiwonmw7/e5w1s872q/blob/main/shengke.md</a></p>
+<p><strong>2026-06-30 14:56</strong><br><br><strong>信息来源：</strong><a itemprop="url" href="https://github.com/lindsayawren-sys/elwn49z0ad/blob/main/fpwlu.md">https://github.com/lindsayawren-sys/elwn49z0ad/blob/main/fpwlu.md</a></p>
 <br><br>
 </li>
 <li>
-<h3>如何看待张靓颖演唱会因清唱太多主办方被罚款？为啥清唱也会被罚？</h3>
-<p><strong>2026-06-30 14:58</strong><br><br><strong>原文链接：</strong><a itemprop="url" href="https://github.com/mejiastanle/msdfe52gs/blob/main/shunzhan.md">https://github.com/mejiastanle/msdfe52gs/blob/main/shunzhan.md</a></p>
+<h3>美的油烟机玩梗张杰引争议</h3>
+<p><strong>2026-06-30 15:03</strong><br><br><strong>本文地址：</strong><a itemprop="url" href="https://github.com/lindsayawren-sys/elwn49z0ad/blob/main/toukuo.md">https://github.com/lindsayawren-sys/elwn49z0ad/blob/main/toukuo.md</a></p>
 <br><br>
 </li>
 <li>
-<h3>世界杯“死亡之组”快被团灭了</h3>
-<p><strong>2026-06-30 14:46</strong><br><br><strong>原文来源：</strong><a itemprop="url" href="https://github.com/vov6fghgsd/ewklwen4/blob/main/liuqian.md">https://github.com/vov6fghgsd/ewklwen4/blob/main/liuqian.md</a></p>
+<h3>板面：为什么那么多人爱吃？？！</h3>
+<p><strong>2026-06-30 15:06</strong><br><br><strong>出处：</strong><a itemprop="url" href="https://github.com/lindsayawren-sys/elwn49z0ad/blob/main/kbcny.md">https://github.com/lindsayawren-sys/elwn49z0ad/blob/main/kbcny.md</a></p>
 <br><br>
 </li>
 <li>
-<h3>网红不能困在无底线逐利里</h3>
-<p><strong>2026-06-30 14:45</strong><br><br><strong>转载来源：</strong><a itemprop="url" href="https://github.com/lindsayawren-sys/enzlaiqozna/blob/main/pexlf.md">https://github.com/lindsayawren-sys/enzlaiqozna/blob/main/pexlf.md</a></p>
+<h3>存储芯片涨价</h3>
+<p><strong>2026-06-30 15:20</strong><br><br><strong>原文地址：</strong><a itemprop="url" href="https://github.com/mejiastanle/msdfe52gs/blob/main/kangsong.md">https://github.com/mejiastanle/msdfe52gs/blob/main/kangsong.md</a></p>
 <br><br>
 </li>
 <li>
-<h3>速度与激情9</h3>
-<p><strong>2026-06-30 15:05</strong><br><br><strong>资料来源：</strong><a itemprop="url" href="https://github.com/dadiea51a/we5413442/blob/main/fenyin.md">https://github.com/dadiea51a/we5413442/blob/main/fenyin.md</a></p>
+<h3>茉莉奶白被称最高位套现</h3>
+<p><strong>2026-06-30 14:54</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="https://github.com/dadiea51a/we5413442/blob/main/diaopin.md">https://github.com/dadiea51a/we5413442/blob/main/diaopin.md</a></p>
 <br><br>
 </li>
 <li>
-<h3>董卿母亲癌症去世</h3>
-<p><strong>2026-06-30 14:44</strong><br><br><strong>原文链接：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch/ekzno3nz5rl/blob/main/tukni.md">https://github.com/lisacumin64-arch/ekzno3nz5rl/blob/main/tukni.md</a></p>
+<h3>大党之治</h3>
+<p><strong>2026-06-30 14:51</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch/ekzno3nz5rl/blob/main/shuangse.md">https://github.com/lisacumin64-arch/ekzno3nz5rl/blob/main/shuangse.md</a></p>
+<br><br>
+</li>
+<li>
+<h3>锐评：网红不能困在无底线逐利里</h3>
+<p><strong>2026-06-30 14:52</strong><br><br><strong>引用地址：</strong><a itemprop="url" href="https://github.com/dadiea51a/we5413442/blob/main/dunmai.md">https://github.com/dadiea51a/we5413442/blob/main/dunmai.md</a></p>
+<br><br>
+</li>
+<li>
+<h3>海南：未按期完成社保认证将停发待遇</h3>
+<p><strong>2026-06-30 15:16</strong><br><br><strong>本文地址：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch/ekzno3nz5rl/blob/main/nuanqia.md">https://github.com/lisacumin64-arch/ekzno3nz5rl/blob/main/nuanqia.md</a></p>
+<br><br>
+</li>
+<li>
+<h3>天道</h3>
+<p><strong>2026-06-30 15:12</strong><br><br><strong>来源链接：</strong><a itemprop="url" href="https://github.com/lindsayawren-sys/enzlaiqozna/blob/main/itbbb.md">https://github.com/lindsayawren-sys/enzlaiqozna/blob/main/itbbb.md</a></p>
+<br><br>
+</li>
+<li>
+<h3>以色列防长称准备好独立打击伊朗</h3>
+<p><strong>2026-06-30 14:55</strong><br><br><strong>转载来源：</strong><a itemprop="url" href="https://github.com/dadiea51a/we5413442/blob/main/gangchi.md">https://github.com/dadiea51a/we5413442/blob/main/gangchi.md</a></p>
+<br><br>
+</li>
+<li>
+<h3>巴媒：库尼亚赛后朝日本伸出五指嘲讽</h3>
+<p><strong>2026-06-30 15:06</strong><br><br><strong>稿件来源：</strong><a itemprop="url" href="https://github.com/mejiastanle/msdfe52gs/blob/main/teyuan.md">https://github.com/mejiastanle/msdfe52gs/blob/main/teyuan.md</a></p>
+<br><br>
+</li>
+<li>
+<h3>金饰价格崩了</h3>
+<p><strong>2026-06-30 15:06</strong><br><br><strong>来源：</strong><a itemprop="url" href="https://github.com/lindsayawren-sys/elwn49z0ad/blob/main/xuhong.md">https://github.com/lindsayawren-sys/elwn49z0ad/blob/main/xuhong.md</a></p>
+<br><br>
+</li>
+<li>
+<h3>Angelababy下沉市场路人缘</h3>
+<p><strong>2026-06-30 15:08</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="https://github.com/lindsayawren-sys/enzlaiqozna/blob/main/gvige.md">https://github.com/lindsayawren-sys/enzlaiqozna/blob/main/gvige.md</a></p>
+<br><br>
+</li>
+<li>
+<h3>日本遭读秒绝杀 森保一：我水平不够</h3>
+<p><strong>2026-06-30 15:00</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="https://github.com/vov6fghgsd/ewklwen4/blob/main/meisui.md">https://github.com/vov6fghgsd/ewklwen4/blob/main/meisui.md</a></p>
+<br><br>
+</li>
+<li>
+<h3>大冷门！德国点球大战 4-5 不敌巴拉圭遭淘汰，止步世界杯 32 强，如何评价本场比赛？</h3>
+<p><strong>2026-06-30 15:08</strong><br><br><strong>本文地址：</strong><a itemprop="url" href="https://github.com/lindsayawren-sys/elwn49z0ad/blob/main/ngvvt.md">https://github.com/lindsayawren-sys/elwn49z0ad/blob/main/ngvvt.md</a></p>
 <br><br>
 </li>
 </ul>
@@ -144,403 +144,403 @@
 <br><br>
 <ul>
 <li>
-<h3>记者：日本队是最有礼貌的球队之一</h3>
-<p><strong>2026-06-30 14:55</strong><br><br><strong>原始链接：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/907705376.shtml">http://www.blog.minike.top/Article/details/907705376.shtml</a></p>
+<h3>男子醉酒溺水获救后同行人拒搭手</h3>
+<p><strong>2026-06-30 15:18</strong><br><br><strong>内容来源：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/801187674.shtml">http://www.share.minike.top/Article/details/801187674.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>韩国足球荒唐背后的财阀控局</h3>
-<p><strong>2026-06-30 15:02</strong><br><br><strong>发布来源：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/53012.shtml">http://www.share.kurohicncr.top/Article/details/53012.shtml</a></p>
+<h3>孙颖莎瞬间改变发球方式</h3>
+<p><strong>2026-06-30 15:05</strong><br><br><strong>原文地址：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/44088971435.shtml">http://www.share.kurohicncr.top/Article/details/44088971435.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>摩的司机10元拉客账户却少了900元</h3>
-<p><strong>2026-06-30 14:54</strong><br><br><strong>内容来源：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/5532651.shtml">http://www.share.minike.top/Article/details/5532651.shtml</a></p>
+<h3>无人机攻防正酣 乌打算收手吗</h3>
+<p><strong>2026-06-30 14:58</strong><br><br><strong>出处：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/0528957.shtml">http://www.share.kurohicncr.top/Article/details/0528957.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>双方回应酒吧投放伟哥事件</h3>
-<p><strong>2026-06-30 14:46</strong><br><br><strong>稿件来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/3065934030.shtml">http://www.blog.minike.top/Article/details/3065934030.shtml</a></p>
+<h3>金牌调解</h3>
+<p><strong>2026-06-30 14:59</strong><br><br><strong>信息来源：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/56058.shtml">http://www.blog.kurohicncr.top/Article/details/56058.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>文旅局回应刺刀峡谷仍有户外队揽客</h3>
-<p><strong>2026-06-30 14:48</strong><br><br><strong>原始链接：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/693758.shtml">http://www.share.kurohicncr.top/Article/details/693758.shtml</a></p>
+<h3>只有诺伊尔可以昂首走出球场</h3>
+<p><strong>2026-06-30 15:11</strong><br><br><strong>引用地址：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/3059365463.shtml">http://www.blog.kurohicncr.top/Article/details/3059365463.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>要有多高认知才能说出这话</h3>
-<p><strong>2026-06-30 15:04</strong><br><br><strong>来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/06852299.shtml">http://www.blog.minike.top/Article/details/06852299.shtml</a></p>
+<h3>为什么现在菜没有菜味，肉没有肉味，鸡没有鸡味？完全没了小时候的味道？</h3>
+<p><strong>2026-06-30 15:10</strong><br><br><strong>内容来源：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/93185.shtml">http://www.share.kurohicncr.top/Article/details/93185.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>与其对华示强 欧盟不如先自我审视</h3>
-<p><strong>2026-06-30 14:49</strong><br><br><strong>出处：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/347339.shtml">http://www.blog.minike.top/Article/details/347339.shtml</a></p>
+<h3>美的油烟机玩梗张杰引争议</h3>
+<p><strong>2026-06-30 15:13</strong><br><br><strong>转载来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
 <br><br>
 </li>
 <li>
 <h3>韩国足球大地震要来了</h3>
-<p><strong>2026-06-30 15:06</strong><br><br><strong>稿件来源：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/0422953004.shtml">http://www.share.kurohicncr.top/Article/details/0422953004.shtml</a></p>
+<p><strong>2026-06-30 15:18</strong><br><br><strong>出处：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/869159168796.shtml">http://www.blog.minike.top/Article/details/869159168796.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>一栗小莎子最后一次化疗</h3>
-<p><strong>2026-06-30 15:08</strong><br><br><strong>内容来源：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/89216144429.shtml">http://www.share.kurohicncr.top/Article/details/89216144429.shtml</a></p>
+<h3>走失5天得救男孩家人带20面锦旗致谢</h3>
+<p><strong>2026-06-30 15:07</strong><br><br><strong>原文链接：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
 <br><br>
 </li>
 <li>
-<h3>科特迪瓦主帅：对挪威目标只有赢球</h3>
-<p><strong>2026-06-30 14:50</strong><br><br><strong>原文出处：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<h3>张雪的一句“是我们”引发岛内热议</h3>
+<p><strong>2026-06-30 15:20</strong><br><br><strong>原始出处：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/32915273787.shtml">http://www.blog.minike.top/Article/details/32915273787.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>2026 年温网首轮郑钦文不敌西尼亚科娃，连续四年止步温网首轮，且三次都败于西尼亚科娃，如何评价？</h3>
-<p><strong>2026-06-30 14:49</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<h3>女子高跟鞋藏毒被查获</h3>
+<p><strong>2026-06-30 15:13</strong><br><br><strong>原文地址：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/06910.shtml">http://www.blog.minike.top/Article/details/06910.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>【哈基米】极境升华！超级刀盾狗！</h3>
-<p><strong>2026-06-30 14:41</strong><br><br><strong>原始链接：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<h3>有哪些记载在古籍里的浪漫文字，如今已经很少有人提及？</h3>
+<p><strong>2026-06-30 15:09</strong><br><br><strong>信息来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/9581233149.shtml">http://www.blog.minike.top/Article/details/9581233149.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>第一次在芬兰市中心摆摊创业卖手工酱香饼蛋烘糕大爆单！咸甜粽子各国老外炫到狂飙中文！火爆街头大排长龙！</h3>
-<p><strong>2026-06-30 14:52</strong><br><br><strong>信息来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<h3>爱很美味</h3>
+<p><strong>2026-06-30 14:56</strong><br><br><strong>信息来源：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/98720061.shtml">http://www.share.minike.top/Article/details/98720061.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>家长集体带孩子在马路上打羽毛球</h3>
-<p><strong>2026-06-30 15:03</strong><br><br><strong>原始出处：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/64073.shtml">http://www.blog.kurohicncr.top/Article/details/64073.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>终于等到黄羿上桌了</h3>
-<p><strong>2026-06-30 14:51</strong><br><br><strong>原始链接：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/84005347976.shtml">http://www.blog.kurohicncr.top/Article/details/84005347976.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>世界杯16强已出炉四队</h3>
-<p><strong>2026-06-30 14:41</strong><br><br><strong>新闻来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<h3>德国荷兰出局是因为主帅吗</h3>
+<p><strong>2026-06-30 14:54</strong><br><br><strong>原文来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
 <br><br>
 </li>
 <li>
 <h3>“黄岩岛自家院子紧张个啥”</h3>
-<p><strong>2026-06-30 14:48</strong><br><br><strong>原文出处：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/38944.shtml">http://www.blog.kurohicncr.top/Article/details/38944.shtml</a></p>
+<p><strong>2026-06-30 14:56</strong><br><br><strong>出处：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/34308688.shtml">http://www.blog.kurohicncr.top/Article/details/34308688.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>半熟恋人5</h3>
-<p><strong>2026-06-30 14:58</strong><br><br><strong>转载地址：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<h3>张雪的一句“是我们”引发岛内热议</h3>
+<p><strong>2026-06-30 15:07</strong><br><br><strong>原文来源：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/674286782.shtml">http://www.blog.kurohicncr.top/Article/details/674286782.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>鹅定档了一部双女主和一部双男主</h3>
-<p><strong>2026-06-30 15:07</strong><br><br><strong>转载地址：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/353632.shtml">http://www.blog.minike.top/Article/details/353632.shtml</a></p>
+<h3>金牌调解</h3>
+<p><strong>2026-06-30 14:53</strong><br><br><strong>转载地址：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/230777.shtml">http://www.blog.kurohicncr.top/Article/details/230777.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>亚洲空调军团在欧洲集体爆单</h3>
-<p><strong>2026-06-30 15:03</strong><br><br><strong>本文地址：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<h3>女子摘黄瓜发现“藤蔓”竟是蛇</h3>
+<p><strong>2026-06-30 15:18</strong><br><br><strong>原文来源：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/569613143.shtml">http://www.share.kurohicncr.top/Article/details/569613143.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>被40℃高温击碎的欧洲式老规矩</h3>
-<p><strong>2026-06-30 14:51</strong><br><br><strong>原始链接：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/37473.shtml">http://www.blog.minike.top/Article/details/37473.shtml</a></p>
+<h3>扫黑风暴</h3>
+<p><strong>2026-06-30 15:10</strong><br><br><strong>原始链接：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/59737134.shtml">http://www.blog.kurohicncr.top/Article/details/59737134.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>克洛普借阿森纳炮轰德国进球被吹掉</h3>
-<p><strong>2026-06-30 14:54</strong><br><br><strong>本文地址：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/8253636.shtml">http://www.blog.minike.top/Article/details/8253636.shtml</a></p>
+<h3>马克龙戴墨镜迎外宾引被家暴猜测</h3>
+<p><strong>2026-06-30 15:02</strong><br><br><strong>资料来源：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/0840526.shtml">http://www.blog.kurohicncr.top/Article/details/0840526.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>毒液2</h3>
-<p><strong>2026-06-30 15:03</strong><br><br><strong>原文链接：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/3655652.shtml">http://www.share.minike.top/Article/details/3655652.shtml</a></p>
+<h3>冲学校再转专业可行吗</h3>
+<p><strong>2026-06-30 15:01</strong><br><br><strong>转载来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
 <br><br>
 </li>
 <li>
-<h3>萨默维尔失点赛后掩面痛哭</h3>
-<p><strong>2026-06-30 14:41</strong><br><br><strong>本文地址：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<h3>斗破苍穹</h3>
+<p><strong>2026-06-30 14:52</strong><br><br><strong>来源链接：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
 <br><br>
 </li>
 <li>
-<h3>易梦玲衣帽间大得像服装店</h3>
-<p><strong>2026-06-30 14:44</strong><br><br><strong>原始链接：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/237755670.shtml">http://www.share.kurohicncr.top/Article/details/237755670.shtml</a></p>
+<h3>大党之治</h3>
+<p><strong>2026-06-30 14:54</strong><br><br><strong>资料来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
 <br><br>
 </li>
 <li>
-<h3>欧洲人为何疯抢中国空调</h3>
-<p><strong>2026-06-30 14:46</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/374328501794.shtml">http://www.blog.minike.top/Article/details/374328501794.shtml</a></p>
+<h3>白俄罗斯气温首次突破40摄氏度</h3>
+<p><strong>2026-06-30 14:59</strong><br><br><strong>新闻来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/044381797418.shtml">http://www.blog.minike.top/Article/details/044381797418.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>鼠鼠的火腾龙，变成了爸妈的空调</h3>
-<p><strong>2026-06-30 14:54</strong><br><br><strong>新闻来源：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/7388439880.shtml">http://www.share.kurohicncr.top/Article/details/7388439880.shtml</a></p>
+<h3>大蒜晒外面被路过女子连盆端走</h3>
+<p><strong>2026-06-30 14:58</strong><br><br><strong>来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
 <br><br>
 </li>
 <li>
-<h3>极端热浪席卷欧洲多国，热一热百姓让领导先凉快？</h3>
-<p><strong>2026-06-30 14:56</strong><br><br><strong>原文地址：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/945667.shtml">http://www.blog.minike.top/Article/details/945667.shtml</a></p>
+<h3>寒武纪大涨 市值突破1万亿元创纪录</h3>
+<p><strong>2026-06-30 14:52</strong><br><br><strong>原始出处：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/25956080.shtml">http://www.share.minike.top/Article/details/25956080.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>哈兰德与姆巴佩明日并肩冲击16强</h3>
-<p><strong>2026-06-30 15:03</strong><br><br><strong>信息来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<h3>警方通报「东鹏特饮创始人不喝自家饮料」，造谣者被刑拘，涉及哪些法律问题？谣言为啥能让其市值蒸发70亿？</h3>
+<p><strong>2026-06-30 14:51</strong><br><br><strong>原文链接：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/5205478064.shtml">http://www.share.kurohicncr.top/Article/details/5205478064.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>手刃完颜专员，重创罗马奇观，降伏圣女贞德，最强英国主公！【帝国时代4】</h3>
-<p><strong>2026-06-30 15:06</strong><br><br><strong>原文地址：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/95370052.shtml">http://www.share.minike.top/Article/details/95370052.shtml</a></p>
+<h3>超神人辉夜姬 第二集</h3>
+<p><strong>2026-06-30 15:00</strong><br><br><strong>原文出处：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/348908134575.shtml">http://www.share.minike.top/Article/details/348908134575.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>韩红基金会回应1万9捐款查不到记录</h3>
-<p><strong>2026-06-30 14:58</strong><br><br><strong>稿件来源：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/7548854644.shtml">http://www.blog.kurohicncr.top/Article/details/7548854644.shtml</a></p>
+<h3>请回答王牌2019</h3>
+<p><strong>2026-06-30 15:01</strong><br><br><strong>新闻来源：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/28523033.shtml">http://www.blog.kurohicncr.top/Article/details/28523033.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>寒武纪市值突破1万亿</h3>
+<p><strong>2026-06-30 15:10</strong><br><br><strong>原文出处：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/7401233.shtml">http://www.blog.minike.top/Article/details/7401233.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>女子连盆端走路边晾晒的大蒜</h3>
+<p><strong>2026-06-30 15:11</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/599779643762.shtml">http://www.share.kurohicncr.top/Article/details/599779643762.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>找到了10年前跪舔b站的视频</h3>
+<p><strong>2026-06-30 15:04</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/3200716100.shtml">http://www.blog.minike.top/Article/details/3200716100.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>没牌照样管 马宁多次提醒主裁判出牌</h3>
+<p><strong>2026-06-30 15:01</strong><br><br><strong>内容来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/59100132445.shtml">http://www.blog.minike.top/Article/details/59100132445.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>70岁，重新养自己？魔丸老太的瞬息全宇宙</h3>
+<p><strong>2026-06-30 15:05</strong><br><br><strong>转载来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<br><br>
+</li>
+<li>
+<h3>曝现在就出发新阵容</h3>
+<p><strong>2026-06-30 14:52</strong><br><br><strong>资料来源：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/03118.shtml">http://www.share.kurohicncr.top/Article/details/03118.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>记者：日本队是最有礼貌的球队之一</h3>
+<p><strong>2026-06-30 14:57</strong><br><br><strong>本文地址：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/09543.shtml">http://www.share.minike.top/Article/details/09543.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>曝哈登拒绝执行新赛季球员选项</h3>
+<p><strong>2026-06-30 15:05</strong><br><br><strong>来源：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/31276.shtml">http://www.blog.kurohicncr.top/Article/details/31276.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>彩票都扔了 发现中了7500元</h3>
+<p><strong>2026-06-30 15:07</strong><br><br><strong>转载地址：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/118525041621.shtml">http://www.share.minike.top/Article/details/118525041621.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>姆巴佩哈兰德将同日出场</h3>
+<p><strong>2026-06-30 15:07</strong><br><br><strong>资料来源：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/54522210.shtml">http://www.share.kurohicncr.top/Article/details/54522210.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>为什么说「钓鱼佬除了鱼什么都能钓上来」？</h3>
+<p><strong>2026-06-30 14:55</strong><br><br><strong>原文出处：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<br><br>
+</li>
+<li>
+<h3>法国教育部长誓不装空调硬扛高温</h3>
+<p><strong>2026-06-30 15:01</strong><br><br><strong>来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/509676869040.shtml">http://www.blog.minike.top/Article/details/509676869040.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>【深度科普】为什么AI越聪明，你反而越不会工作了？</h3>
+<p><strong>2026-06-30 15:10</strong><br><br><strong>资料来源：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/880107.shtml">http://www.share.kurohicncr.top/Article/details/880107.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>布努神扑</h3>
+<p><strong>2026-06-30 15:20</strong><br><br><strong>出处：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<br><br>
+</li>
+<li>
+<h3>一人一句祝党生日快乐</h3>
+<p><strong>2026-06-30 15:07</strong><br><br><strong>引用地址：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<br><br>
+</li>
+<li>
+<h3>教育发展十五五规划释放多个利好</h3>
+<p><strong>2026-06-30 15:01</strong><br><br><strong>稿件来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<br><br>
+</li>
+<li>
+<h3>我设置了全宇宙最安全的密码</h3>
+<p><strong>2026-06-30 15:09</strong><br><br><strong>出处：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
 <br><br>
 </li>
 <li>
 <h3>《恋与深空》的新角色争议为啥闹这么大？</h3>
-<p><strong>2026-06-30 14:53</strong><br><br><strong>转载地址：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<p><strong>2026-06-30 15:20</strong><br><br><strong>原文出处：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/6537831.shtml">http://www.share.minike.top/Article/details/6537831.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>看看赶海都能遇到啥</h3>
-<p><strong>2026-06-30 15:02</strong><br><br><strong>转载来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/03981695.shtml">http://www.blog.minike.top/Article/details/03981695.shtml</a></p>
+<h3>终极硬筋流狂铁12.0，何为对抗路的尽头</h3>
+<p><strong>2026-06-30 15:16</strong><br><br><strong>新闻来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/875839444745.shtml">http://www.blog.minike.top/Article/details/875839444745.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>饭店仓库挂标语：仓库重地 擅闯怀孕</h3>
-<p><strong>2026-06-30 14:55</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/533616181.shtml">http://www.share.minike.top/Article/details/533616181.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>长友佑都：世界杯就是自己的青春</h3>
-<p><strong>2026-06-30 15:01</strong><br><br><strong>引用地址：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/335139810261.shtml">http://www.blog.minike.top/Article/details/335139810261.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>【乘风2026】总决赛-《想见你想见你想见你》张月&amp;陈瑶 愿所有想念都能在我们的歌声里靠岸</h3>
-<p><strong>2026-06-30 15:06</strong><br><br><strong>原文链接：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/0756283.shtml">http://www.share.minike.top/Article/details/0756283.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>对话Lilwukong：被骂了三个月，我敢说 AI 才是音乐的未来</h3>
-<p><strong>2026-06-30 14:45</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
-<br><br>
-</li>
-<li>
-<h3>法国VS瑞典谁能赢</h3>
-<p><strong>2026-06-30 15:08</strong><br><br><strong>引用地址：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/64668.shtml">http://www.blog.kurohicncr.top/Article/details/64668.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>被诋毁的“三系杂交稻”到底有多牛？看懂它才能看懂中国饭碗【主播说三农】</h3>
-<p><strong>2026-06-30 15:06</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/76949453987.shtml">http://www.share.minike.top/Article/details/76949453987.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>金枝官宣杀青</h3>
-<p><strong>2026-06-30 14:55</strong><br><br><strong>原始链接：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/952685.shtml">http://www.share.minike.top/Article/details/952685.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>西十高铁首趟列车满员</h3>
-<p><strong>2026-06-30 15:02</strong><br><br><strong>原文地址：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/061835.shtml">http://www.share.minike.top/Article/details/061835.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>周杰伦演唱会中餐厅团建</h3>
-<p><strong>2026-06-30 14:42</strong><br><br><strong>发布来源：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/319369581782.shtml">http://www.share.minike.top/Article/details/319369581782.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>兜 帽 难 藏 泪 4</h3>
-<p><strong>2026-06-30 14:55</strong><br><br><strong>转载来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/1463981727.shtml">http://www.blog.minike.top/Article/details/1463981727.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>抛夫弃子与情夫私奔三年后病危</h3>
-<p><strong>2026-06-30 14:41</strong><br><br><strong>原始出处：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/1125404050.shtml">http://www.share.minike.top/Article/details/1125404050.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>我设置了全宇宙最安全的密码</h3>
-<p><strong>2026-06-30 15:06</strong><br><br><strong>本文地址：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
-<br><br>
-</li>
-<li>
-<h3>林一高个子打伞的坏处来了</h3>
-<p><strong>2026-06-30 14:43</strong><br><br><strong>原文链接：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/947797088139.shtml">http://www.share.kurohicncr.top/Article/details/947797088139.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>我觉得你是在无中生友</h3>
-<p><strong>2026-06-30 14:42</strong><br><br><strong>信息来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/1730431.shtml">http://www.blog.minike.top/Article/details/1730431.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>巴拉圭全国放假1天</h3>
-<p><strong>2026-06-30 14:50</strong><br><br><strong>原文出处：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/677142.shtml">http://www.share.minike.top/Article/details/677142.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>我的孩子性格内向，不爱主动与同龄人玩，我该如何帮助他？</h3>
-<p><strong>2026-06-30 15:06</strong><br><br><strong>原始出处：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/37388.shtml">http://www.share.minike.top/Article/details/37388.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>鹅定档了一部双女主和一部双男主</h3>
-<p><strong>2026-06-30 14:54</strong><br><br><strong>原始出处：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/25409500.shtml">http://www.share.minike.top/Article/details/25409500.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>巴拉圭赢德国后全国放假一天</h3>
-<p><strong>2026-06-30 14:53</strong><br><br><strong>原始链接：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/82170.shtml">http://www.blog.kurohicncr.top/Article/details/82170.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>男孩公交车上“深度昏迷”急坏司机</h3>
-<p><strong>2026-06-30 15:09</strong><br><br><strong>原始链接：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/7710205.shtml">http://www.share.kurohicncr.top/Article/details/7710205.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>我设置了全宇宙最安全的密码</h3>
-<p><strong>2026-06-30 14:47</strong><br><br><strong>转载来源：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/474282.shtml">http://www.share.kurohicncr.top/Article/details/474282.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>哈兰德与姆巴佩明日并肩冲击16强</h3>
-<p><strong>2026-06-30 14:58</strong><br><br><strong>转载来源：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/7205467448.shtml">http://www.share.kurohicncr.top/Article/details/7205467448.shtml</a></p>
-<br><br>
-</li>
-<li>
-<h3>我和我的家乡</h3>
-<p><strong>2026-06-30 15:04</strong><br><br><strong>原文地址：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
-<br><br>
-</li>
-<li>
-<h3>荷兰又一次倒在点球大战</h3>
-<p><strong>2026-06-30 14:40</strong><br><br><strong>引用地址：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
-<br><br>
-</li>
-<li>
-<h3>金饰克价年内大跌超500元</h3>
-<p><strong>2026-06-30 14:43</strong><br><br><strong>原文来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/952167494.shtml">http://www.blog.minike.top/Article/details/952167494.shtml</a></p>
+<h3>网友吃半根变苦黄瓜后恶心呕吐，确诊葫芦素中毒致肝衰竭，黄瓜变苦真的会产生毒素吗？背后有什么科学依据吗？</h3>
+<p><strong>2026-06-30 14:52</strong><br><br><strong>转载地址：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
 <br><br>
 </li>
 <li>
 <h3>分析：全球万亿资本正在大换仓</h3>
-<p><strong>2026-06-30 14:44</strong><br><br><strong>信息来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/650660697123.shtml">http://www.blog.minike.top/Article/details/650660697123.shtml</a></p>
+<p><strong>2026-06-30 14:58</strong><br><br><strong>引用地址：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/18859.shtml">http://www.share.kurohicncr.top/Article/details/18859.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>德国已让2国赢球放假</h3>
-<p><strong>2026-06-30 15:05</strong><br><br><strong>转载地址：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/6455977467.shtml">http://www.blog.minike.top/Article/details/6455977467.shtml</a></p>
+<h3>檀健次第一视角的王楚然</h3>
+<p><strong>2026-06-30 15:14</strong><br><br><strong>原文链接：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/3366398.shtml">http://www.blog.kurohicncr.top/Article/details/3366398.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>网友网购8元的耳环商场卖128元</h3>
-<p><strong>2026-06-30 14:54</strong><br><br><strong>转载地址：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/94373549.shtml">http://www.share.kurohicncr.top/Article/details/94373549.shtml</a></p>
+<h3>林俊杰回忆13年前被蔡依林牵线田馥甄</h3>
+<p><strong>2026-06-30 14:55</strong><br><br><strong>来源链接：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
 <br><br>
 </li>
 <li>
-<h3>孙颖莎一日双赛过关</h3>
-<p><strong>2026-06-30 14:57</strong><br><br><strong>新闻来源：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/793559.shtml">http://www.share.kurohicncr.top/Article/details/793559.shtml</a></p>
+<h3>网瘾賊大的阿嬷</h3>
+<p><strong>2026-06-30 15:07</strong><br><br><strong>来源链接：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/762847994862.shtml">http://www.share.minike.top/Article/details/762847994862.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>五哈和他们的朋友</h3>
-<p><strong>2026-06-30 15:08</strong><br><br><strong>转载地址：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<h3>为什么说「钓鱼佬除了鱼什么都能钓上来」？</h3>
+<p><strong>2026-06-30 15:20</strong><br><br><strong>出处：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/178994607.shtml">http://www.blog.minike.top/Article/details/178994607.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>豆包被曝有后台审核人员，这是真的吗？若属实，这属于侵犯用户隐私吗？</h3>
-<p><strong>2026-06-30 14:46</strong><br><br><strong>本文地址：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/8168024983.shtml">http://www.blog.kurohicncr.top/Article/details/8168024983.shtml</a></p>
+<h3>周生如故</h3>
+<p><strong>2026-06-30 15:12</strong><br><br><strong>转载地址：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/67467952.shtml">http://www.blog.kurohicncr.top/Article/details/67467952.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>孩子高考成绩不理想 爸爸暖心安慰</h3>
-<p><strong>2026-06-30 15:05</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/336977822.shtml">http://www.blog.minike.top/Article/details/336977822.shtml</a></p>
+<h3>男生早恋被老师公开批评 回家后坠亡</h3>
+<p><strong>2026-06-30 14:54</strong><br><br><strong>稿件来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/16690023370.shtml">http://www.blog.minike.top/Article/details/16690023370.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>千与千寻</h3>
-<p><strong>2026-06-30 14:45</strong><br><br><strong>转载地址：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/4506509847.shtml">http://www.share.minike.top/Article/details/4506509847.shtml</a></p>
+<h3>高中五人学习小组全员超650分</h3>
+<p><strong>2026-06-30 15:00</strong><br><br><strong>本文地址：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/158093512.shtml">http://www.share.minike.top/Article/details/158093512.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>DeepSeekV4正式版即将上线</h3>
-<p><strong>2026-06-30 14:44</strong><br><br><strong>原文链接：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/176521.shtml">http://www.share.kurohicncr.top/Article/details/176521.shtml</a></p>
+<h3>詹俊谈荷兰淘汰</h3>
+<p><strong>2026-06-30 15:01</strong><br><br><strong>新闻来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/347802772859.shtml">http://www.blog.minike.top/Article/details/347802772859.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>科特迪瓦主帅：对挪威目标只有赢球</h3>
-<p><strong>2026-06-30 14:43</strong><br><br><strong>发布来源：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/7613879.shtml">http://www.blog.kurohicncr.top/Article/details/7613879.shtml</a></p>
+<h3>荷兰点球大战输给摩洛哥 淘汰出局</h3>
+<p><strong>2026-06-30 14:59</strong><br><br><strong>原文来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
 <br><br>
 </li>
 <li>
-<h3>一生一世</h3>
-<p><strong>2026-06-30 15:05</strong><br><br><strong>资料来源：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/28821054646.shtml">http://www.share.kurohicncr.top/Article/details/28821054646.shtml</a></p>
+<h3>女子身高166体重到100斤就焦虑</h3>
+<p><strong>2026-06-30 15:20</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/90644764159.shtml">http://www.blog.kurohicncr.top/Article/details/90644764159.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>如何了解和认识自己的潜意识？</h3>
-<p><strong>2026-06-30 14:42</strong><br><br><strong>原文链接：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/79055068.shtml">http://www.share.kurohicncr.top/Article/details/79055068.shtml</a></p>
+<h3>超神人辉夜姬 第二集</h3>
+<p><strong>2026-06-30 14:56</strong><br><br><strong>原文来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
 <br><br>
 </li>
 <li>
-<h3>一口青醒一秒苏醒</h3>
-<p><strong>2026-06-30 14:55</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/1672461945.shtml">http://www.share.minike.top/Article/details/1672461945.shtml</a></p>
+<h3>妈妈分享孩子高考成功秘诀</h3>
+<p><strong>2026-06-30 15:06</strong><br><br><strong>新闻来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/57256900.shtml">http://www.blog.minike.top/Article/details/57256900.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>日元跌破1美元兑162日元关口，创下近40年来新低，日本央行已加息至1%，为何完全挡不住日元贬值颓势？</h3>
-<p><strong>2026-06-30 14:52</strong><br><br><strong>来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/050895757043.shtml">http://www.blog.minike.top/Article/details/050895757043.shtml</a></p>
+<h3>起风了</h3>
+<p><strong>2026-06-30 15:16</strong><br><br><strong>资料来源：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/643455.shtml">http://www.share.kurohicncr.top/Article/details/643455.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>金鹰奖最佳男主角候选</h3>
-<p><strong>2026-06-30 15:07</strong><br><br><strong>新闻来源：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/42494928.shtml">http://www.blog.kurohicncr.top/Article/details/42494928.shtml</a></p>
+<h3>第一炉香</h3>
+<p><strong>2026-06-30 15:08</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/7111425712.shtml">http://www.blog.kurohicncr.top/Article/details/7111425712.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>巴西球员赛后伸五指嘲讽日本</h3>
-<p><strong>2026-06-30 14:43</strong><br><br><strong>原始链接：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<h3>加克波进球后跪地痛哭</h3>
+<p><strong>2026-06-30 15:08</strong><br><br><strong>稿件来源：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/29780415953.shtml">http://www.share.minike.top/Article/details/29780415953.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>斛珠夫人</h3>
-<p><strong>2026-06-30 15:08</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/8712193.shtml">http://www.blog.kurohicncr.top/Article/details/8712193.shtml</a></p>
+<h3>寒武纪市值突破1万亿</h3>
+<p><strong>2026-06-30 14:55</strong><br><br><strong>新闻来源：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/763326.shtml">http://www.share.minike.top/Article/details/763326.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>输球后日本球迷被强行披上巴西国旗</h3>
-<p><strong>2026-06-30 14:45</strong><br><br><strong>本文地址：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/98596840.shtml">http://www.blog.kurohicncr.top/Article/details/98596840.shtml</a></p>
+<h3>曝小卡团队索要2年1.2亿美元顶薪续约</h3>
+<p><strong>2026-06-30 15:00</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/17357.shtml">http://www.share.minike.top/Article/details/17357.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>《我落泪情绪零碎》</h3>
-<p><strong>2026-06-30 15:04</strong><br><br><strong>出处：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/65009.shtml">http://www.blog.kurohicncr.top/Article/details/65009.shtml</a></p>
+<h3>蔚来回应「网友给 ES9 洗车时车漆被高压水枪冲掉」，称是操作不当导致，到底是操作不当还是质量问题？</h3>
+<p><strong>2026-06-30 15:08</strong><br><br><strong>内容来源：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/053116.shtml">http://www.blog.kurohicncr.top/Article/details/053116.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>对话Lilwukong：被骂了三个月，我敢说 AI 才是音乐的未来</h3>
-<p><strong>2026-06-30 14:45</strong><br><br><strong>发布来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/20323560240.shtml">http://www.blog.minike.top/Article/details/20323560240.shtml</a></p>
+<h3>马宁怒怼巴拉圭教练组</h3>
+<p><strong>2026-06-30 15:03</strong><br><br><strong>原文地址：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/2333554.shtml">http://www.blog.kurohicncr.top/Article/details/2333554.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>五哈和他们的朋友</h3>
-<p><strong>2026-06-30 15:09</strong><br><br><strong>原文链接：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/53085.shtml">http://www.share.kurohicncr.top/Article/details/53085.shtml</a></p>
+<h3>“黄岩岛自家院子紧张个啥”</h3>
+<p><strong>2026-06-30 15:16</strong><br><br><strong>出处：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
 <br><br>
 </li>
 <li>
-<h3>2021江苏卫视跨年演唱会</h3>
-<p><strong>2026-06-30 14:46</strong><br><br><strong>文章来源：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/28424.shtml">http://www.share.kurohicncr.top/Article/details/28424.shtml</a></p>
+<h3>死亡之组快死完了</h3>
+<p><strong>2026-06-30 14:53</strong><br><br><strong>原文地址：</strong><a itemprop="url" href="http://www.share.kurohicncr.top/Article/details/4595550.shtml">http://www.share.kurohicncr.top/Article/details/4595550.shtml</a></p>
 <br><br>
 </li>
 <li>
-<h3>自己种菜比买菜贵多了，为什么还有人费劲巴力的去种呢？</h3>
-<p><strong>2026-06-30 14:43</strong><br><br><strong>原文链接：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/977253688.shtml">http://www.blog.kurohicncr.top/Article/details/977253688.shtml</a></p>
+<h3>孙颖莎女单首轮3-0横扫晋级</h3>
+<p><strong>2026-06-30 15:10</strong><br><br><strong>来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/76322429.shtml">http://www.blog.minike.top/Article/details/76322429.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>韩国又开始赌国运了吗</h3>
+<p><strong>2026-06-30 15:09</strong><br><br><strong>原文出处：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/2120384.shtml">http://www.blog.minike.top/Article/details/2120384.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>巴西绝杀视频被ESPN转发</h3>
+<p><strong>2026-06-30 15:03</strong><br><br><strong>引用地址：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/57690.shtml">http://www.blog.minike.top/Article/details/57690.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>毒液2</h3>
+<p><strong>2026-06-30 15:12</strong><br><br><strong>转载来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/0964337.shtml">http://www.blog.minike.top/Article/details/0964337.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>黎深终末之神</h3>
+<p><strong>2026-06-30 15:00</strong><br><br><strong>来源：</strong><a itemprop="url" href="http://www.share.minike.top/Article/details/233527864.shtml">http://www.share.minike.top/Article/details/233527864.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>找到了10年前跪舔b站的视频</h3>
+<p><strong>2026-06-30 14:54</strong><br><br><strong>转载来源：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/03675929.shtml">http://www.blog.kurohicncr.top/Article/details/03675929.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>德国主帅：输球说明我们够不上顶级</h3>
+<p><strong>2026-06-30 14:53</strong><br><br><strong>原文来源：</strong><a itemprop="url" href="http://www.blog.kurohicncr.top/Article/details/51620.shtml">http://www.blog.kurohicncr.top/Article/details/51620.shtml</a></p>
+<br><br>
+</li>
+<li>
+<h3>曝女明星请家教不给钱</h3>
+<p><strong>2026-06-30 15:10</strong><br><br><strong>原文来源：</strong><a itemprop="url" href="https://github.com/lisacumin64-arch">https://github.com/lisacumin64-arch</a></p>
+<br><br>
+</li>
+<li>
+<h3>湖南军队院校招生军检控制分数线出炉</h3>
+<p><strong>2026-06-30 15:04</strong><br><br><strong>原文来源：</strong><a itemprop="url" href="http://www.blog.minike.top/Article/details/50223.shtml">http://www.blog.minike.top/Article/details/50223.shtml</a></p>
 <br><br>
 </li>
 </ul>
